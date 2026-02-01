@@ -1,0 +1,30 @@
+.display-1 {
+    font-size: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.display-2 {
+    font-size: 170px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+    font-display: auto;
+}
+
+
+.text-main {
+    padding-left: 75px;
+    padding-top: 100px;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
